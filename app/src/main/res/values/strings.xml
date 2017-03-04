@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="lang_german">de-DE</string>
+    <string name="lang_english">en-US</string>
+    <string name="sort_popular">Most Popular</string>
+    <string name="sort_rated">Highest Rated</string>
+    <string name="no_connection">No Internet Connection!</string>
+    <string name="no_key">Please enter your The Movie DB key in the Settings.</string>
+    <string name="wrong_key">Please check your The Movie DB key in the Settings.</string>
+
+    <string name="pref_key_title">Your Movie DB Key</string>
+    <string name="pref_lang_title">Language</string>
+    <string name="settings">Settings</string>
+    
+    <string name="detail_overview">Overview      :</string>
+    <string name="detail_rating">Average \nRating:</string>
+    <string name="detail_release_date">Release \nDate :</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:title="@string/pref_key_title"
+        android:key="pref_key"
+        android:defaultValue=""/>
+    <ListPreference
+        android:title="@string/pref_lang_title"
+        android:key="pref_lang"
+        android:dialogTitle="@string/pref_lang_title"
+        android:entries="@array/array_lang"
+        android:entryValues="@array/array_lang_val"
+        android:defaultValue="@string/lang_german"/>
+</PreferenceScreen>
